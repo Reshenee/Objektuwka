@@ -1,0 +1,7 @@
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\bin\Debug\Konsola_1.exe.config
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\bin\Debug\Konsola_1.exe
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\bin\Debug\Konsola_1.pdb
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\obj\Debug\Konsola_1.csproj.AssemblyReference.cache
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\obj\Debug\Konsola_1.csproj.CoreCompileInputs.cache
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\obj\Debug\Konsola_1.exe
+C:\Users\2e1\Desktop\GitHub\Objektuwka\Konsola_1\obj\Debug\Konsola_1.pdb
